@@ -1,6 +1,5 @@
-# ☣️ Twitch Toxic Tracker
+# Twitch Toxic Tracker
 
-![captura1](https://user-images.githubusercontent.com/20164590/217115939-241debc7-f8c8-4670-ab9d-c5329722424b.png)
 
 The **Twitch Toxic Tracker** is an innovative application that provides real-time monitoring and analysis of Twitch chat messages. It is designed to help streamers and moderators maintain a positive and welcoming environment for their viewers by detecting and classifying toxic messages.
 
@@ -24,7 +23,6 @@ Overall, the **Twitch Toxic Tracker** is an essential tool for streamers and mod
 
 The main idea is for the streamer to enter their username, resize the window, and place it next to OBS while they are streaming in order to visually detect toxic individuals in their chat in a much more efficient manner.
 
-![Captura de pantalla 2023-02-05 002439](https://user-images.githubusercontent.com/20164590/216793762-6b025345-fe2e-40f5-9352-8722a27603f7.png)
 </br>
 </br>
 
@@ -62,8 +60,6 @@ e4a74d77-11f0-42ef-af96-2781f879bc1d-ft
 </p>
 
 ### Cohere.ai model after training
-
-![trained_model](https://user-images.githubusercontent.com/20164590/216793201-25dc23d7-02f1-4747-a1b1-ab63292b2164.png)
 
 ## 🗺️ Demo Usage
 
