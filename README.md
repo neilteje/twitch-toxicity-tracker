@@ -13,10 +13,6 @@ Overall, the **Twitch Toxic Tracker** is an essential tool for streamers and mod
 
 <p align="center">
 <a href="https://twitch-chat-toxicity.vercel.app/" target="blank">View project</a>
-·
-<a href="https://github.com/ericrisco/twitch-chat-toxicity/issues/new/choose">Report Bug</a>
-·
-<a href="https://github.com/ericrisco/twitch-chat-toxicity/issues/new/choose">Request Feature</a>
 </p>
 
 ## 💡 Idea
